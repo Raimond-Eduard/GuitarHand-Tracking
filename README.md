@@ -9,4 +9,5 @@ I have decided to make my project open-sourced because I do believe we are not m
 
 ---
 
-#
+# Documentation
+The documentation for this project can be found in the **Notes_Recognition.pdf** file.
